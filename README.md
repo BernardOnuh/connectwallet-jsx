@@ -28,10 +28,10 @@ npx create-next-app@latest
 npm install --save venom-connect everscale-inpage-provider everscale-standalone-client
 ```
 - Now Create a component folder like this:
-[Component Folder](https://github.com/BernardOnuh/connectwallet-tsx/tree/main/src/app/components)
+[Component Folder](https://github.com/BernardOnuh/connectwallet-jsx/tree/main/src/app/components)
 
 - Now edit page.tsx in app folder like this:
-[page,tsx](https://github.com/BernardOnuh/connectwallet-tsx/blob/main/src/app/page.tsx)
+[page,tsx](https://github.com/BernardOnuh/connectwallet-jsx)
 
 - You can now run the App:
 
